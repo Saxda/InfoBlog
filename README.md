@@ -1,2 +1,2 @@
 # InfoBlog
-In diesem Blog geht es um Informatik
+In diesem Blog geht es um Informatik & Technik
